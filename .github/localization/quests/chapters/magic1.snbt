@@ -4427,7 +4427,7 @@
 		}
 		{
 			dependencies: ["502826CBF91585C1"]
-			description: ["[\"\", {\"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text0\"}, {\"underlined\": \"True\", \"color\": \"yellow\", \"clickEvent\": {\"action\": \"change_page\", \"value\": \"4331EEF3BA9799FD\"}, \"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text1\"}, {\"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text2\"}]"]
+			description: ["[\"\", {\"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text0\"}, {\"underlined\": \"True\", \"color\": \"yellow\", \"clickEvent\": {\"action\": \"change_page\", \"value\": \"1F971C770E451FFE\"}, \"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text1\"}, {\"translate\": \"gto.magic1.quests.3100458952FC0673.description0.rich_text2\"}]"]
 			id: "3100458952FC0673"
 			subtitle: "{gto.magic1.quests.3100458952FC0673.subtitle}"
 			tasks: [{
@@ -4730,6 +4730,23 @@
 			]
 			x: 7.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["70C5A902C0D26628"]
+			description: ["{gto.magic1.quests.7DB4B6390DB628FF.description0}"]
+			id: "7DB4B6390DB628FF"
+			rewards: [{
+				id: "790703426DBDB4B5"
+				item: "gtocore:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79F66F0F62F7A756"
+				item: "gtocore:normal_mana_pipe"
+				type: "item"
+			}]
+			x: 13.6d
+			y: 0.94d
 		}
 	]
 	subtitle: ["{gto.magic1.subtitle0}"]
