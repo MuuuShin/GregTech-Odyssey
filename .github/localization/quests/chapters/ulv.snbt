@@ -1711,22 +1711,6 @@
 			x: 8.5d
 			y: 0.0d
 		}
-		{
-			dependencies: ["1CDBE91D2ACD9111"]
-			disable_toast: true
-			icon_scale: 0.25d
-			id: "31F0EB6822F9566E"
-			shape: "none"
-			size: 0.25d
-			tasks: [{
-				id: "6EA88A0AB6903848"
-				stat: "minecraft:jump"
-				type: "stat"
-				value: 1
-			}]
-			x: -2.0d
-			y: 2.85d
-		}
 	]
 	subtitle: ["{gto.ulv.subtitle0}"]
 	title: "{gto.ulv.title}"
